@@ -1,4 +1,4 @@
-name: serve
+name: servering
 on:
   workflow_dispatch:
 
